@@ -53,7 +53,7 @@ header {
 
 /* Hero Section */
 #hero {
-    background: linear-gradient(to right, rgba(74, 71, 163, 0.9), rgba(98, 84, 171, 0.8)), url('https://via.placeholder.com/1920x1080');
+    background: linear-gradient(to right, rgba(74, 71, 163, 0.9), rgba(98, 84, 171, 0.8)), url('https://via.placeholder.com/');
     height: 100vh;
     color: white;
     display: flex;
@@ -149,7 +149,8 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Centering vertically */
+    height: 100vh;
+    /* Centering vertically */
 }
 
 #contact .contact-form {
@@ -273,7 +274,7 @@ footer {
     padding: 2rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
     text-align: center;
-    
+
     border-radius: 25px;
     transition: none;
 }
