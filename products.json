@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Handmade Pottery",
+        "image": "https://images.unsplash.com/photo-1520408222757-6f9f95d87d5d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBvdHRlcnl8ZW58MHx8MHx8fDA=",
+        "price": "₹499",
+        "rating": 4.7,
+        "description": "Beautifully crafted handmade pottery pieces.",
+        "details": [
+            { "title": "Unique Designs", "content": "Each piece is uniquely designed, perfect for decoration." },
+            { "title": "Eco-friendly Materials", "content": "Made with natural clay and non-toxic glazes." }
+        ],
+        "contact": "+919876543210"
+    },
+    {
+        "id": 2,
+        "name": "Organic Honey",
+        "image": "https://images.unsplash.com/photo-1481900369621-54a7facacc6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9uZXl8ZW58MHx8MHx8fDA=",
+        "price": "₹350",
+        "rating": 4.9,
+        "description": "Pure organic honey sourced from local beekeepers.",
+        "details": [
+            { "title": "Raw and Unfiltered", "content": "Contains all the natural enzymes and nutrients." },
+            { "title": "Locally Sourced", "content": "Harvested from hives in nearby farms." }
+        ],
+        "contact": "+919876543211"
+    },
+    {
+        "id": 3,
+        "name": "Fresh Produce Basket",
+        "image": "https://img.freepik.com/free-photo/top-view-bunch-fresh-vegetables-composition_23-2148642957.jpg?size=626&ext=jpg",
+        "price": "₹799",
+        "rating": 4.8,
+        "description": "A basket of fresh, organic vegetables and fruits.",
+        "details": [
+            { "title": "Seasonal Varieties", "content": "Includes a variety of seasonal fruits and vegetables." },
+            { "title": "Locally Grown", "content": "All produce is sourced from local farmers." }
+        ],
+        "contact": "+919876543212"
+    },
+    {
+        "id": 4,
+        "name": "Barber Services",
+        "image": "https://cdn.pixabay.com/photo/2019/02/25/13/38/haircut-4019676_640.jpg",
+        "price": "",
+        "rating": 4.6,
+        "description": "Professional barber services for haircuts and styling.",
+        "details": [
+            { "title": "Experienced Barbers", "content": "Skilled barbers with years of experience." },
+            { "title": "Walk-ins Welcome", "content": "No appointments necessary; just walk in!" }
+        ],
+        "contact": "+919876543213"
+    },
+    {
+        "id": 5,
+        "name": "Local Mechanic",
+        "image": "https://thumbs.dreamstime.com/b/mechanic-work-845210.jpg",
+        "price": "",
+        "rating": 4.5,
+        "description": "Reliable mechanic services for all vehicle types.",
+        "details": [
+            { "title": "Quick Repairs", "content": "Fast and efficient service for minor and major repairs." },
+            { "title": "Affordable Pricing", "content": "Transparent pricing with no hidden fees." }
+        ],
+        "contact": "+919876543214"
+    },
+    {
+        "id": 6,
+        "name": "Bicycle Repair Services",
+        "image": "https://www.ontheflychicago.net/uploads/8/2/8/7/82870374/img-20230809-182055-bokeh_orig.jpg",
+        "price": "",
+        "rating": 4.8,
+        "description": "Local bicycle repair services for all types of bikes.",
+        "details": [
+            { "title": "Tune-ups Available", "content": "Full tune-up services for better performance." },
+            { "title": "Parts Replacement", "content": "We carry a variety of bike parts for quick replacements." }
+        ],
+        "contact": "+919876543215"
+    },
+    {
+        "id": 7,
+        "name": "Handcrafted Jewelry",
+        "image": "https://www.elainebjewelry.com/cdn/shop/collections/Artifact_Collection_Elaine_B_Jewelry.jpg?crop=center&height=1500&v=1728355808&width=3000",
+        "price": "₹1200",
+        "rating": 4.9,
+        "description": "Unique handcrafted jewelry pieces.",
+        "details": [
+            { "title": "Custom Designs", "content": "Tailored to fit your style and preference." },
+            { "title": "Quality Materials", "content": "Crafted using high-quality metals and stones." }
+        ],
+        "contact": "+919876543216"
+    },
+    {
+        "id": 8,
+        "name": "Scented Candles",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/scented-candle-2048px-0149.jpg?auto=webp&quality=75&width=1024",
+        "price": "₹300",
+        "rating": 4.5,
+        "description": "Hand-poured scented candles for relaxation.",
+        "details": [
+            { "title": "Variety of Scents", "content": "Choose from a wide range of fragrances." },
+            { "title": "Long-lasting", "content": "Enjoy hours of soothing aromas." }
+        ],
+        "contact": "+919876543217"
+    },
+    {
+        "id": 9,
+        "name": "Yoga Classes",
+        "image": "https://media.gettyimages.com/id/1346275790/photo/male-yoga-instructor-leads-class.jpg?s=612x612&w=0&k=20&c=s-YNnfHNCHLF9gPvXomAHhXvNn_FyX37RA8beVu_lO0=",
+        "price": "",
+        "rating": 4.8,
+        "description": "Group yoga classes for all levels.",
+        "details": [
+            { "title": "Experienced Instructors", "content": "Guided by certified yoga trainers." },
+            { "title": "Flexible Timings", "content": "Morning and evening sessions available." }
+        ],
+        "contact": "+919876543218"
+    },
+    {
+        "id": 10,
+        "name": "Local Pet Grooming",
+        "image": "https://t4.ftcdn.net/jpg/03/05/39/85/360_F_305398567_H1CR13g3SniKCMMnEyKO7hjMrXNI9hzG.jpg",
+        "price": "",
+        "rating": 4.6,
+        "description": "Grooming services for your furry friends.",
+        "details": [
+            { "title": "Bathing and Trimming", "content": "Complete grooming package available." },
+            { "title": "Friendly Staff", "content": "We love pets and treat them with care." }
+        ],
+        "contact": "+919876543219"
+    }
+]
