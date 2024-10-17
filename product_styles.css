@@ -16,6 +16,30 @@ body {
     min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
 }
 
+.burger-menu {
+    display: none;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin-left: 1.5rem;
+}
+
+.nav-links a {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
 /* Product Card Styles */
 .product-card {
     background-color: white;
@@ -38,8 +62,9 @@ body {
     position: absolute; /* Center crop */
     top: 50%;
     left: 50%;
-    width: auto;
+    width: 100%; /* Ensure the image covers the width */
     height: 100%; /* Maintain height */
+    object-fit: cover; /* Crop the image while maintaining aspect ratio */
     transform: translate(-50%, -50%); /* Center the image */
 }
 
